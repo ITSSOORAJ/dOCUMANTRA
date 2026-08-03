@@ -1,0 +1,6 @@
+{
+  "name": "Multimodal Learning Agent",
+  "description": "Topic-based multimodal workspace for reading materials, video note-taking, knowledge base appending, confusion clearing, and cross-referencing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
