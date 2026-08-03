@@ -1,6 +1,3 @@
-Here is a comprehensive **README.md** tailored for your **NexusLearn: Multimodal AI Knowledge Engine** project.
-
----
 
 # 🎓 NexusLearn – Multimodal AI Knowledge Engine
 
